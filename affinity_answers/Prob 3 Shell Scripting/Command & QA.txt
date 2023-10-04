@@ -1,0 +1,15 @@
+Command:
+
+----- curl -sS 'http://amfiindia.com/spages/NAVAll.txt' | awk -F ';' '{print $4 "\t" $5}' > output2.tsv
+
+Process:
+I used curl to fetch the data from the url, and AWK to filter it.
+Using awk:
+-I've specified the feild seperater(-F) as ';' and then printed out the 4th($3) and 5th($5) column from the data that contain
+ the scheme name and Asset values resepctivelymwith a tab between them.
+
+-----------------------------
+
+Q- And ever wondered if this data should not be stored in JSON?
+A: JSON would a great choice for nested data where we have a structure to parse/read through the data, where as simple data 
+as this web scrap can be stored into simple file formats like tsv, excel, etc.

@@ -1,0 +1,7 @@
+Test cases where'll I'd implement my program would be:
+
+-Ambulance Navigation: A case where one has to beyond assurity.
+-Drone/Robotized Dileveries
+-Autonomous Cab Services (if ever come to existence)/Simple cab Applications
+-Govt. IDs: Where address accuracy plays a vital role.
+-Banking: Financial Services often have difficult times when it comes to verifying an Address.
