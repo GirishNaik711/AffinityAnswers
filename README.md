@@ -7,7 +7,6 @@ e.g. of correct addresses: "2nd Phase, 374/B, 80 Feet Rd, Mysore Bank Colony, Ba
 "2nd Phase, 374/B, 80 Feet Rd, Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bengaluru, Karnataka 560050”, "374/B, 80 Feet Rd, State Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bangalore. 560050”,
 e.g. of an incorrect addresses: "2nd Phase, 374/B, 80 Feet Rd, Mysore Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bengaluru, Karnataka 560095”,
 “Colony, Bengaluru, Karnataka 560050”
-
 Once you have written the program above, list the test cases you would use to test your program.
 ------------------------------------------------------------------------------------------------------------------------------
 
